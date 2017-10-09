@@ -90,6 +90,8 @@ document.getElementById ("score").innerHTML=html;
 //Show letters clicked by user//
 //Reset if Wins +1 or losses + 1  
 
+//SHOW IN HTML//
+
 
 
 
